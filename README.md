@@ -7,8 +7,7 @@ A simple shader is used to implement a scroll rolling and unrolling animation. A
 
 ## 🎬 Demo
 
-![Scanner Demo](files/Scroll.mp4)
-
+[![Watch the video](https://img.youtube.com/vi/9YdD3Ea4bso/0.jpg)](https://youtu.be/9YdD3Ea4bso)
 ---
 
 ## 📜 License
